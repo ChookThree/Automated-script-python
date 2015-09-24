@@ -7,7 +7,7 @@ import click
 @click.command()
 @click.option()
 
-commandOne = "./update-elastic -H es.cluster.ldp:19200 -i sevenga.ironcommander@"
+commandOne = "./commandr@"
 initTime = datetime.date(2015,7,20)
 while True:  
     initTime = initTime + datetime.timedelta(days=1)
